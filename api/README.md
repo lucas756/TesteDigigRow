@@ -1,5 +1,5 @@
 # Api para teste na empresa BigigRow
-Back-end de um sistema de pedidos, com NodeJS e PostgresSQL.
+Back-end de um sistema de pedidos, com NodeJS, Express e Nodemon.
 
 <h1>PARA RODAR A APLICAÇÃO.</h1>
 
