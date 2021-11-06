@@ -1,4 +1,4 @@
-# Sistema-de-Pedidos
+# Api para teste na empresa BigigRow
 Back-end de um sistema de pedidos, com NodeJS e PostgresSQL.
 
 <h1>PARA RODAR A APLICAÇÃO.</h1>
